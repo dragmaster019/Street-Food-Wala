@@ -96,7 +96,7 @@
     - twitter
     - instagram
    
-    - how foes it looks like?
+     How does it look like?
    
 
 https://github.com/dragmaster019/Street-Food-Wala/assets/83837160/f1726a33-d50f-45d4-8d06-2054107bb13b
