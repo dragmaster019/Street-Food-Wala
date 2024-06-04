@@ -1,4 +1,4 @@
-# Zosh Food
+# Street-Food-Wala
 
 1. **User:**
     - ID (Auto-generated)
